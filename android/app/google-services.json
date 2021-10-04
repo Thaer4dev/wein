@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "156639530480",
+    "firebase_url": "https://wein-f8c8c-default-rtdb.firebaseio.com",
+    "project_id": "wein-f8c8c",
+    "storage_bucket": "wein-f8c8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156639530480:android:2629d84149ea568774e135",
+        "android_client_info": {
+          "package_name": "com.biative.wein"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156639530480-omvv6l1e37j6oe08d3467fgr3k864ljq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biative.wein",
+            "certificate_hash": "4b1fcbcab661d5ae426080ec4579701265eb1f5e"
+          }
+        },
+        {
+          "client_id": "156639530480-edbjtnk9u72jh19jg8nlr7enjj378pm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_jJlsXeEsjKjyac4zsxSjIDMD4jHCu3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156639530480-edbjtnk9u72jh19jg8nlr7enjj378pm1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156639530480-fgaf7i2sg0slqk987os9eumbjrl34pft.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wein"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156639530480:android:50c8c94efc3189f574e135",
+        "android_client_info": {
+          "package_name": "com.example.wein"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156639530480-adm7g81395berpeqk4rbmfddj18h8voo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wein",
+            "certificate_hash": "d312914b8c86add80b73e068c5ea48a5b972d695"
+          }
+        },
+        {
+          "client_id": "156639530480-kid9rf8ga8lqt2vfmo4cac9rb4qisori.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wein",
+            "certificate_hash": "df8634117571306aff70d1246901dbe47e0eb788"
+          }
+        },
+        {
+          "client_id": "156639530480-edbjtnk9u72jh19jg8nlr7enjj378pm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_jJlsXeEsjKjyac4zsxSjIDMD4jHCu3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156639530480-edbjtnk9u72jh19jg8nlr7enjj378pm1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156639530480-fgaf7i2sg0slqk987os9eumbjrl34pft.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wein"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
